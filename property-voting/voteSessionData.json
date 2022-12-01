@@ -1,45 +1,47 @@
 {
   "actived": "0xda92b3d57d45acb47d551db82f352da94afe616f",
-  "0xda92b3d57d45acb47d551db82f352da94afe616f": {
-    "voters": ["0x8851650f9aBA4A376b3493cf5d8E57D200A1cf02"],
-    "resolutions": [
-      {
-        "name": {
-          "en": "Detoknization for 18983 Alcoy, Detroit MI",
-          "fr": "Detoknisation pour 18983 Alcoy, Detroit MI",
-          "es": "Detoknización para 18983 Alcoy, Detroit MI"
-        },
-        "description": {
-          "en": "After a long series of negotiations with a potential buyer wishing to acquire 18983 ALCOY we arrived at a proposal of $88,000 brut. He is not interested in acquiring the tokens, nor the interest in the LLC. So this will be a traditional real estate transaction closed by a title agent. We have until this Friday, December 7, 5:00 pm to respond.\n\nBy clicking on this link below, you will find the financial breakdown of the transaction and additional details on this vote.\n\n- Quorum: 0%.\n- Minimum % of yes on quorum: 50%+1token\n- Voting type : 1 token = 1 vote\n- Editable vote : no",
-          "fr": "Après une longue série de négociations avec un acheteur potentiel souhaitent acquérir 18983 ALCOY nous somme arrivé a une proposition de 88 000 $ brut. Il n'est pas intéressé par l'acquisition des jetons, ni par les intérêts dans la SARL. Il s'agira donc d'une transaction immobilière traditionnelle clôturée par un agent de titres.   Nous avons jusqu'à ce vendredi 7 décembre 17h00 pour répondre.\n\nEn cliquant sur ce lien si dessous, vous trouverez la ventilation financière de la transaction et des détails complémentaire sur ce vote.\n\n- Quorum : 0%\n- Minimum % de oui sur le quorum : 50%+1token\n- Type de vote : 1 token = 1 vois\n- Vote éditable : no",
-          "es": "Tras una larga serie de negociaciones con un posible comprador que deseaba adquirir el 18983 ALCOY llegamos a una propuesta de 88.000 dólares brutos. No está interesado en adquirir los tokens, ni la participación en la LLC. Esta será una transacción inmobiliaria tradicional cerrada por un agente de títulos.   Tenemos hasta este viernes 7 de diciembre a las 17 horas para responder.\n\nHaciendo clic en el siguiente enlace, encontrará el desglose financiero de la transacción y más detalles sobre esta votación.\n\n- Quórum: 0%.\n- Porcentaje mínimo de sí en el quórum: 50%+1token\n- Tipo de voto: 1 ficha = 1 voto\n- Voto editable : no"
-        },
-        "url": "https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/#tab-title-detokenization_tab",
-        "voteStart": 1670011200,
-        "proposals": [
-          {
-            "label": {
-              "en": "No",
-              "fr": "Non",
-              "es": "No"
-            }
+  "data": {
+    "0xda92b3d57d45acb47d551db82f352da94afe616f": {
+      "voters": ["0x8851650f9aBA4A376b3493cf5d8E57D200A1cf02"],
+      "resolutions": [
+        {
+          "name": {
+            "en": "Detoknization for 18983 Alcoy, Detroit MI",
+            "fr": "Detoknisation pour 18983 Alcoy, Detroit MI",
+            "es": "Detoknización para 18983 Alcoy, Detroit MI"
           },
-          {
-            "label": {
-              "en": "Yes",
-              "fr": "Oui",
-              "es": "Si"
-            }
+          "description": {
+            "en": "After a long series of negotiations with a potential buyer wishing to acquire 18983 ALCOY we arrived at a proposal of $88,000 brut. He is not interested in acquiring the tokens, nor the interest in the LLC. So this will be a traditional real estate transaction closed by a title agent. We have until this Friday, December 7, 5:00 pm to respond.\n\nBy clicking on this link below, you will find the financial breakdown of the transaction and additional details on this vote.\n\n- Quorum: 0%.\n- Minimum % of yes on quorum: 50%+1token\n- Voting type : 1 token = 1 vote\n- Editable vote : no",
+            "fr": "Après une longue série de négociations avec un acheteur potentiel souhaitent acquérir 18983 ALCOY nous somme arrivé a une proposition de 88 000 $ brut. Il n'est pas intéressé par l'acquisition des jetons, ni par les intérêts dans la SARL. Il s'agira donc d'une transaction immobilière traditionnelle clôturée par un agent de titres.   Nous avons jusqu'à ce vendredi 7 décembre 17h00 pour répondre.\n\nEn cliquant sur ce lien si dessous, vous trouverez la ventilation financière de la transaction et des détails complémentaire sur ce vote.\n\n- Quorum : 0%\n- Minimum % de oui sur le quorum : 50%+1token\n- Type de vote : 1 token = 1 vois\n- Vote éditable : no",
+            "es": "Tras una larga serie de negociaciones con un posible comprador que deseaba adquirir el 18983 ALCOY llegamos a una propuesta de 88.000 dólares brutos. No está interesado en adquirir los tokens, ni la participación en la LLC. Esta será una transacción inmobiliaria tradicional cerrada por un agente de títulos.   Tenemos hasta este viernes 7 de diciembre a las 17 horas para responder.\n\nHaciendo clic en el siguiente enlace, encontrará el desglose financiero de la transacción y más detalles sobre esta votación.\n\n- Quórum: 0%.\n- Porcentaje mínimo de sí en el quórum: 50%+1token\n- Tipo de voto: 1 ficha = 1 voto\n- Voto editable : no"
           },
-          {
-            "label": {
-              "en": "Blank Vote",
-              "fr": "Vote Blanc",
-              "es": "Vote Blanc"
+          "url": "https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/#tab-title-detokenization_tab",
+          "voteStart": 1670011200,
+          "proposals": [
+            {
+              "label": {
+                "en": "No",
+                "fr": "Non",
+                "es": "No"
+              }
+            },
+            {
+              "label": {
+                "en": "Yes",
+                "fr": "Oui",
+                "es": "Si"
+              }
+            },
+            {
+              "label": {
+                "en": "Blank Vote",
+                "fr": "Vote Blanc",
+                "es": "Vote Blanc"
+              }
             }
-          }
-        ]
-      }
-    ]
+          ]
+        }
+      ]
+    }
   }
 }

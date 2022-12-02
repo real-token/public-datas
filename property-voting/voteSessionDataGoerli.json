@@ -1,0 +1,150 @@
+{
+  "actived": "0xe915f1838a77e8b18e7ae0c4d36614bdecbe6056",
+  "data": {
+    "0xaf0002bea55756cdfd31a8a095d8f493e9a8804d": {
+      "voters": [
+        "0x8F7e62a1254a5099E512dC176a805eF7E3CCCC68",
+        "0x7DA9A33d15413F499299687cC9d81DE84684E28E",
+        "0x5Fc96c182Bb7E0413c08e8e03e9d7EFc6cf0B099",
+        "0x963309A278145D6c42725E454fE91c9471D9907a",
+        "0xE7D97868265078bd5022Bc2622C94dFc1Ef1D402",
+        "0x190686De2615dC4120F2f21580048CfE2CD97381",
+        "0xa55395566b0b54395B3246f96A0bDc4b8a483df9",
+        "0x834acbddBD42F1c0948Bc5456E905712A0b3BBaC"
+      ],
+      "resolutions": [
+        {
+          "name": {
+            "en": "Test Vote vente 1",
+            "fr": "Test Vote vente 1",
+            "es": "Test Vote vente 1"
+          },
+          "description": {
+            "en": "We have received an offer to buy the house \"123456 test ave, 1245 Detroit MI\", we own a fraction of this house, you must agree to this offer or refuse it.\nFor more information and details see the following link",
+            "fr": "Nous avons reçu une proposition de rachat de la maison \"123456 test ave, 1245 Detroit MI\", étent propriétaire d'une fraction de cette maison, vous devez données votre accore concernant cette offre ou la refuser.\nPour plus d'informaion et de détails consultez le lien qui suit",
+            "es": "We have received an offer to buy the house \"123456 test ave, 1245 Detroit MI\", we own a fraction of this house, you must agree to this offer or refuse it.\nFor more information and details see the following link"
+          },
+          "url": "https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/",
+          "voteStart": 1669402800,
+          "proposals": [
+            {
+              "label": {
+                "en": "No",
+                "fr": "Non",
+                "es": "No"
+              }
+            },
+            {
+              "label": {
+                "en": "Yes",
+                "fr": "Oui",
+                "es": "Si"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "0xe915f1838a77e8b18e7ae0c4d36614bdecbe6056": {
+      "voters": [
+        "0x8F7e62a1254a5099E512dC176a805eF7E3CCCC68",
+        "0x7DA9A33d15413F499299687cC9d81DE84684E28E",
+        "0x5Fc96c182Bb7E0413c08e8e03e9d7EFc6cf0B099",
+        "0x963309A278145D6c42725E454fE91c9471D9907a",
+        "0xE7D97868265078bd5022Bc2622C94dFc1Ef1D402",
+        "0x190686De2615dC4120F2f21580048CfE2CD97381",
+        "0xa55395566b0b54395B3246f96A0bDc4b8a483df9",
+        "0x834acbddBD42F1c0948Bc5456E905712A0b3BBaC"
+      ],
+      "resolutions": [
+        {
+          "name": {
+            "en": "Test Vote vente 2",
+            "fr": "Test Vote vente 2",
+            "es": "Test Vote vente 2"
+          },
+          "description": {
+            "en": "We have received an offer to buy the house \"123456 test ave, 1245 Detroit MI\", we own a fraction of this house, you must agree to this offer or refuse it.\nFor more information and details see the following link",
+            "fr": "Nous avons reçu une proposition de rachat de la maison \"123456 test ave, 1245 Detroit MI\", étent propriétaire d'une fraction de cette maison, vous devez données votre accore concernant cette offre ou la refuser.\nPour plus d'informaion et de détails consultez le lien qui suit",
+            "es": "We have received an offer to buy the house \"123456 test ave, 1245 Detroit MI\", we own a fraction of this house, you must agree to this offer or refuse it.\nFor more information and details see the following link"
+          },
+          "url": "https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/",
+          "voteStart": 1669298400,
+          "proposals": [
+            {
+              "label": {
+                "en": "No",
+                "fr": "Non",
+                "es": "No"
+              }
+            },
+            {
+              "label": {
+                "en": "Yes",
+                "fr": "Oui",
+                "es": "Si"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "0x66dbada0b6ebceff3e4b752a138cab8f805c2b67": {
+      "voters": [
+        "0x001cb842959329d4dF037d4D49241528ab609c08",
+        "0x06e7082d2cc84C42d663C760fa07ebD0a8e4c152",
+        "0x254bec412B4e627b92f63BF59C6CF89A74cEa83a",
+        "0x3D1ce7061A6D74E13DA15756d5fA9b275D6768Ff",
+        "0x43a89C2f84e7e731D1787b523AE4e1c588C1Aa6A",
+        "0x47fA99634053D32e17ca0B58eE6C7299CE2430e7",
+        "0x4a8842C8e74e94e9abFF3C157F316e7914B6BA17",
+        "0x60A1827cC0B8b7c112B39f2E8A4D01d10E51C3fc",
+        "0x63A5d26F47a7BE8E2fCB55F0012650388be361e6",
+        "0x7Ee567D2AC5dca4c422281Deb1e2334a805BA6C1",
+        "0x8045e8a6053683c6431Cc72f83c0757bdB9794C4",
+        "0x8bA8629Ef63BF286c7193b5144303c473D5ff8A3",
+        "0x98671Fa831474c3e78c40C223E819031C4e7ee07",
+        "0xA17b746a3b13A680690b9A19fccd49e3C8D2B798",
+        "0xC6257815598d0036a565Fa0310B47167C5f501B4",
+        "0xC703785ae29b7A81f754692C2e035Ccf30444fCD",
+        "0xC83E2E3BeCaaDB048CE41DB954f96fE852b25b0d",
+        "0xD3CCeE736e371C4836B4B9356a4e07CCDAA676B2",
+        "0xDb1345a4a059280fD1511339e372EfD026f2f6db",
+        "0xa2BbF73b35195a390F2659335e3Bf85826E6deb8",
+        "0xe140df6714385eA1E0c4beC62b8b462757BBcbcE"
+      ],
+      "resolutions": [
+        {
+          "name": {
+            "en": "Vote on-chain community - test 1",
+            "fr": "Vote on-chain communautaire - test 1",
+            "es": "Vote on-chain community - test 1"
+          },
+          "description": {
+            "en": "You can find here a summary of the voting topic, it will give you the important information to summarize the voting topic, as well as a link to consult a page with all the details about the vote.\nThe on-chain votes are irreversible, once voted you can not change your vote.\nWe have calculated the weight for the vote in relation to the number of tokens you have on Goerli, the snap shot was made 2022/11/24 16:30\n\nDo you accept this voting system ?",
+            "fr": "Vous trouvez ici un résumé du sujet de vote, il vous donnera les informations importante pour résumer le sujet du vote, ainsi qu'un lien pour consulté une page avec tout les détails sur le vote.\nLes votes on-chain sont irréversible, une fois voté vous ne pouvez plus modifier votre vote.\nNous avons calculer le pois pour le vote par rapport au nombre de tokens que vous posséder sur Goerli, le snap shot a été effectuer 2022/11/24 16:30\n\nAcceptez vous ce système de Vote ?",
+            "es": "You can find here a summary of the voting topic, it will give you the important information to summarize the voting topic, as well as a link to consult a page with all the details about the vote.\nThe on-chain votes are irreversible, once voted you can not change your vote.\nWe have calculated the weight for the vote in relation to the number of tokens you have on Goerli, the snap shot was made 2022/11/24 16:30\n\nDo you accept this voting system ?"
+          },
+          "url": "https://realt.co/",
+          "voteStart": 1669402800,
+          "proposals": [
+            {
+              "label": {
+                "en": "No",
+                "fr": "Non",
+                "es": "No"
+              }
+            },
+            {
+              "label": {
+                "en": "Yes",
+                "fr": "Oui",
+                "es": "Si"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -262,9 +262,9 @@
       "resolutions": [
         {
           "name": {
-            "en": "Detoknization for 18983 Alcoy, Detroit MI",
-            "fr": "Detoknisation pour 18983 Alcoy, Detroit MI",
-            "es": "Detoknización para 18983 Alcoy, Detroit MI"
+            "en": "De-tokenization for 18983 Alcoy, Detroit MI",
+            "fr": "Dé-tokénisation pour 18983 Alcoy, Detroit MI",
+            "es": "De-tokenización para 18983 Alcoy, Detroit MI"
           },
           "description": {
             "en": "After a long series of negotiations with a potential buyer wishing to acquire 18983 ALCOY we arrived at a proposal of $88,000 brut. He is not interested in acquiring the tokens, nor the interest in the LLC. So this will be a traditional real estate transaction closed by a title agent. We have until this Wednesday, December 7, 5:00 pm to respond.\n\nBy clicking on this link below, you will find the financial breakdown of the transaction and additional details on this vote.\n\n- Quorum: 0%.\n- Minimum % of yes on quorum: 50%+1token\n- Voting type : 1 token = 1 vote\n- Editable vote : no",
@@ -292,7 +292,7 @@
               "label": {
                 "en": "Blank Vote",
                 "fr": "Vote Blanc",
-                "es": "Vote Blanc"
+                "es": "Voto en blanco"
               }
             }
           ]

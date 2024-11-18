@@ -1,12 +1,12 @@
 {
-  "id": "1",
+  "id": "6",
   "assetAddress": "",
   "template": "test",
   "version": "1.0.0",
   "urls": [],
   "settings": {
-    "start_timestamp": "1730979000",
-    "end_timestamp": "1731096000",
+    "start_timestamp": "1731675600",
+    "end_timestamp": "1731884400",
     "descriptions": {
       "translationKey": "description"
     },

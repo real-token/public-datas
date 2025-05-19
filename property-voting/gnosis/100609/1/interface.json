@@ -1,0 +1,30 @@
+{
+  "id": "1",
+  "assetAddress": "0x4a6CD874C3da159f88BE3C7351Bde37ceE6B4863",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    "https://medium.com/realtplatform/realt-in-panama-a-growing-market-with-strategic-benefits-652c8f94e369"
+  ],
+  "settings": {
+    "start_timestamp": "",
+    "end_timestamp": "",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "2",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

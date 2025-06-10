@@ -1,0 +1,26 @@
+{
+"title": {
+ "en": "324 Piper Sale Vote",
+ "fr": "Vote de Vente 324 Piper",
+ "es": "Votación de Venta 324 Piper"
+},
+"descriptions": {
+ "en": "**Description**\n\nWe are writing to inform you of an upcoming vote regarding a sale opportunity for the 324 Piper property. An offer has been received with a firm and final price of **$180,000**.\n\n### Sale Opportunity Details\n\n**Outstanding Performance**\n* Original offering price: $102,500 (June 15, 2022)\n* Total investment including fees: $123,975\n* **Gross return: 75.61% in just 3 years**\n* **Net return: ~34.57%** (including rental income, capital gains, and fees)\n* Over $32,000 in rental income distributed to token holders\n\n**Current Property Considerations**\n* Upper unit vacant since June 1, 2025\n* Estimated renovation costs: $7,000-$8,000\n* Insurance costs increasing from $60 to $180/month (July 2025)\n* Property taxes rising from $150 to $370/month (July 2025)\n* **Buyer purchasing \"as-is\"** - no renovation costs for token holders\n\n**Voting Period: June 11-16, 2025**\n\nThis represents a remarkable return compared to traditional real estate investments, which typically achieve 20-40% total returns over 10 years.",
+ "fr": "**Description**\n\nNous vous écrivons pour vous informer d'un vote à venir concernant une opportunité de vente pour la propriété 324 Piper. Une offre a été reçue avec un prix ferme et final de **180 000 $**.\n\n### Détails de l'Opportunité de Vente\n\n**Performance Exceptionnelle**\n* Prix d'offre initial : 102 500 $ (15 juin 2022)\n* Investissement total incluant les frais : 123 975 $\n* **Rendement brut : 75,61% en seulement 3 ans**\n* **Rendement net : ~34,57%** (incluant revenus locatifs, plus-values et frais)\n* Plus de 32 000 $ de revenus locatifs distribués aux détenteurs de tokens\n\n**Considérations Actuelles de la Propriété**\n* Unité supérieure vacante depuis le 1er juin 2025\n* Coûts de rénovation estimés : 7 000-8 000 $\n* Coûts d'assurance augmentant de 60 $ à 180 $/mois (juillet 2025)\n* Taxes foncières augmentant de 150 $ à 370 $/mois (juillet 2025)\n* **Acheteur achète \"tel quel\"** - aucun coût de rénovation pour les détenteurs de tokens\n\n**Période de Vote : 11-16 juin 2025**\n\nCeci représente un rendement remarquable comparé aux investissements immobiliers traditionnels, qui atteignent typiquement 20-40% de rendement total sur 10 ans.",
+ "es": "**Descripción**\n\nLe escribimos para informarle sobre una próxima votación sobre una oportunidad de venta para la propiedad 324 Piper. Se ha recibido una oferta con un precio firme y final de **$180,000**.\n\n### Detalles de la Oportunidad de Venta\n\n**Rendimiento Excepcional**\n* Precio de oferta original: $102,500 (15 de junio, 2022)\n* Inversión total incluyendo comisiones: $123,975\n* **Retorno bruto: 75.61% en solo 3 años**\n* **Retorno neto: ~34.57%** (incluyendo ingresos de alquiler, ganancias de capital y comisiones)\n* Más de $32,000 en ingresos de alquiler distribuidos a los tenedores de tokens\n\n**Consideraciones Actuales de la Propiedad**\n* Unidad superior vacante desde el 1 de junio, 2025\n* Costos de renovación estimados: $7,000-$8,000\n* Costos de seguro aumentando de $60 a $180/mes (julio 2025)\n* Impuestos sobre la propiedad aumentando de $150 a $370/mes (julio 2025)\n* **Comprador comprando \"tal como está\"** - sin costos de renovación para los tenedores de tokens\n\n**Período de Votación: 11-16 de junio, 2025**\n\nEsto representa un retorno notable comparado con las inversiones inmobiliarias tradicionales, que típicamente logran 20-40% de retornos totales durante 10 años."
+},
+"vote_options": {
+ "en": {
+   "0": "Accept Sale Offer ($180,000)",
+   "1": "Reject Sale Offer"
+ },
+ "fr": {
+   "0": "Accepter l'Offre de Vente (180 000 $)",
+   "1": "Rejeter l'Offre de Vente"
+ },
+ "es": {
+   "0": "Aceptar Oferta de Venta ($180,000)",
+   "1": "Rechazar Oferta de Venta"
+ }
+}
+}

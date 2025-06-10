@@ -1,0 +1,28 @@
+{
+  "id": "2",
+  "assetAddress": "0x03CBe3DDa83908ad48643D6A1B5b13d11ACAF845",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [],
+  "settings": {
+    "start_timestamp": "1749628800",
+    "end_timestamp": "1750089600",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "2",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

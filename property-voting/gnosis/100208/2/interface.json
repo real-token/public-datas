@@ -3,7 +3,7 @@
   "assetAddress": "0x03CBe3DDa83908ad48643D6A1B5b13d11ACAF845",
   "template": "vote",
   "version": "1.0.0",
-  "urls": ["https://realt.co/product/324-piper-blvd-detroit-mi-48215/"],
+  "urls": [{"name": "realt.co", "url": "https://realt.co/product/324-piper-blvd-detroit-mi-48215/", "type": "website"}],
   "settings": {
     "start_timestamp": "1749628800",
     "end_timestamp": "1750089600",

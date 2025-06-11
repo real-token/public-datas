@@ -13,11 +13,11 @@
     "vote_options": [
       {
         "translationKey": "1",
-        "color": "#FF5733"
+        "color": "#33FF57"
       },
       {
         "translationKey": "2",
-        "color": "#33FF57"
+        "color": "#FF5733"
       },
       {
         "translationKey": "3",

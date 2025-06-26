@@ -1,0 +1,35 @@
+{
+  "name": "RealToken Citizen #x",
+  "description": "A Citizen NFT in the RealToken ecosystem that evolves based on participation and contribution.",
+  "image": "x",
+  "external_url": "https://realtoken.network/collection/citizen/x",
+  "background_color": "FFFFFF",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Citizen"
+    },
+    {
+      "trait_type": "Minimum Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Maximum Level",
+      "value": 10
+    },
+    {
+      "trait_type": "Genesis Weight",
+      "value": 10
+    },
+    {
+      "trait_type": "Initial Mint Timestamp",
+      "value": 1731293589,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Initial Owner",
+      "value": "OWNER_ADDRESS",
+      "display_type": "address"
+    }
+  ]
+}

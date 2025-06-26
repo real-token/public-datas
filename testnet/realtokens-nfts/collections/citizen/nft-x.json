@@ -1,8 +1,8 @@
 {
-  "name": "RealToken Citizen #[id]",
+  "name": "RealToken Citizen #{{id}}",
   "description": "A Citizen NFT in the RealToken ecosystem that evolves based on participation and contribution.",
-  "image": "[id]",
-  "external_url": "https://realtoken.network/collection/citizen/[id]",
+  "image": "https://github.com/real-token/public-datas/blob/abcad0f8a54a04e86346ceebd18b5493551b62cd/testnet/realtokens-nfts/collections/citizen/NFT_citizen-placeholder.png",
+  "external_url": "https://realtoken.network/collection/citizen/{{id}}",
   "background_color": "FFFFFF",
   "attributes": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Minimum Level",
-      "value": "[n]",
+      "value": "{{nml}}",
       "display_type": "int"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Genesis Weight",
-      "value": "[n]",
+      "value": "{{ngw}}",
       "display_type": "int"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Initial Owner",
-      "value": "OWNER_ADDRESS",
+      "value": "{{OWNER_ADDRESS}}",
       "display_type": "address"
     }
   ]

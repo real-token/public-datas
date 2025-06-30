@@ -1,7 +1,7 @@
 {
   "name": "RealToken Citizen #{{id}}",
   "description": "A Citizen NFT in the RealToken ecosystem that evolves based on participation and contribution.",
-  "image": "https://raw.githubusercontent.com/real-token/public-datas/testnet/testnet/realtokens-nfts/collections/citizen/nft-x.json",
+  "image": "https://raw.githubusercontent.com/real-token/public-datas/testnet/testnet/realtokens-nfts/collections/citizen/NFT_citizen-placeholder.png",
   "external_url": "https://nft.realtoken.network/collection/citizen/{{id}}",
   "background_color": "FFFFFF",
   "attributes": [

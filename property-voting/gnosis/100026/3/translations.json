@@ -1,0 +1,26 @@
+{
+  "title": {
+    "en": "13991 Warwick Sale Vote",
+    "fr": "Vote de Vente 13991 Warwick",
+    "es": "Votación de Venta 13991 Warwick"
+  },
+  "descriptions": {
+    "en": "Description\n\nAn offer has been received with a firm and final price of $125,000.\n\n### Sale Opportunity Details\n\nOutstanding Performance\n* Original purchase price: $51,000 (2020)\n* Total investment including fees: $58,487 ($44.99 per token)\n* Net return after all costs: $95,060 ($73.12 per token)\n* Token performance: 62.5% (plus annual yields and REG tokens)\n* Consistent rental income distributed throughout holding period\n\n* Current tenant vacating July 15, 2025\n* Estimated renovation costs: $35,000-$45,000\n* Buyer purchasing \"as-is\" - no renovation costs for token holders\n* Avoids significant timeline delays from renovations\n\nVoting Period: July 3 - July 10\n\nThis represents an exceptional return compared to traditional real estate investments, which typically achieve 20-40% total returns over 10 years. The 62.5% performance plus annual yields significantly outperforms market expectations.",
+    "fr": "Description\n\nUne offre a été reçue avec un prix ferme et final de 125 000 $.\n\n### Détails de l'Opportunité de Vente\n\nPerformance Exceptionnelle\n* Prix d'achat initial : 51 000 $ (2020)\n* Investissement total incluant les frais : 58 487 $ (44,99 $ par token)\n* Rendement net après tous les coûts : 95 060 $ (73,12 $ par token)\n* Performance du token : 62,5% (plus rendements annuels et tokens REG)\n* Revenus locatifs constants distribués pendant toute la période de détention\n\n* Locataire actuel quittant le 15 juillet 2025\n* Coûts de rénovation estimés : 35 000-45 000 $\n* Acheteur achète \"tel quel\" - aucun coût de rénovation pour les détenteurs de tokens\n* Évite des délais importants dus aux rénovations\n\nPériode de Vote : 3 juillet - 10 juillet\n\nCeci représente un rendement exceptionnel comparé aux investissements immobiliers traditionnels, qui atteignent typiquement 20-40% de rendement total sur 10 ans. La performance de 62,5% plus les rendements annuels dépasse significativement les attentes du marché.",
+    "es": "Descripción\n\nSe ha recibido una oferta con un precio firme y final de $125,000.\n\n### Detalles de la Oportunidad de Venta\n\nRendimiento Excepcional\n* Precio de compra original: $51,000 (2020)\n* Inversión total incluyendo comisiones: $58,487 ($44.99 por token)\n* Retorno neto después de todos los costos: $95,060 ($73.12 por token)\n* Rendimiento del token: 62.5% (más rendimientos anuales y tokens REG)\n* Ingresos de alquiler consistentes distribuidos durante todo el período de tenencia\n\n* Inquilino actual desocupando el 15 de julio, 2025\n* Costos de renovación estimados: $35,000-$45,000\n* Comprador comprando \"tal como está\" - sin costos de renovación para los tenedores de tokens\n* Evita retrasos significativos por renovaciones\n\nPeríodo de Votación: 3 de julio - 10 de julio\n\nEsto representa un retorno excepcional comparado con las inversiones inmobiliarias tradicionales, que típicamente logran 20-40% de retornos totales durante 10 años. El rendimiento de 62.5% más los rendimientos anuales supera significativamente las expectativas del mercado."
+    },
+  "vote_options": {
+    "en": {
+      "0": "Accept Sale Offer ($125,000)",
+      "1": "Reject Sale Offer"
+    },
+    "fr": {
+      "0": "Accepter l'Offre de Vente (125 000 $)",
+      "1": "Rejeter l'Offre de Vente"
+    },
+    "es": {
+      "0": "Aceptar Oferta de Venta ($125,000)",
+      "1": "Rechazar Oferta de Venta"
+    }
+  }
+}

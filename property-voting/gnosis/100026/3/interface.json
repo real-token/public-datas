@@ -1,0 +1,28 @@
+{
+  "id": "3",
+  "assetAddress": "0x4E98493920b16Dd6642e9D48497c8d0A49150f6F",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [{"name": "realt.co", "url": "https://realt.co/product/13991-warwick-st-detroit-mi-48223/", "type": "website"}],
+  "settings": {
+    "start_timestamp": "1751558400",
+    "end_timestamp": "1752163200",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "urls": [{"name": "realt.co", "url": "https://realt.co/product/13991-warwick-st-detroit-mi-48223/", "type": "website"}],
   "settings": {
-    "start_timestamp": "1751558400",
+    "start_timestamp": "1751563200",
     "end_timestamp": "1752163200",
     "descriptions": {
       "translationKey": "descriptions"

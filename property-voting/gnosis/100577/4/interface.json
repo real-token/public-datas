@@ -1,0 +1,34 @@
+{
+  "id": "4",
+  "assetAddress": "0xa83cbd26964ea953f86c741871a1ab2a256cb82d",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/9311-bedford-st-detroit-mi-48224",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1769785200",
+    "end_timestamp": "1770130800",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

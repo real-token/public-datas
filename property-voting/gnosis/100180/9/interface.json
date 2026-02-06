@@ -1,0 +1,34 @@
+{
+  "id": "9",
+  "assetAddress": "0x2fb7eeeece8498af2bf5b00ea29ca03005c35956",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/1389-bird-ave-birmingham-mi-48009/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1770390000",
+    "end_timestamp": "1770735600",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

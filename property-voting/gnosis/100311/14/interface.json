@@ -1,0 +1,34 @@
+{
+  "id": "14",
+  "assetAddress": "0x59de64861ddf9309be2d03d647d21c7a7609e384",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/12580-maiden-st-detroit-mi-48213/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1771426800",
+    "end_timestamp": "1771837200",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

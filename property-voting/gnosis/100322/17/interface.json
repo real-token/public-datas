@@ -1,0 +1,34 @@
+{
+  "id": "17",
+  "assetAddress": "0x6f0e040d9f02830c6eea5b287ad74369a9e5f1e1",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/1-holdings-rohns-st-detroit-mi-48214/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1771426800",
+    "end_timestamp": "1771837200",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

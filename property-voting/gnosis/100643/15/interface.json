@@ -1,0 +1,34 @@
+{
+  "id": "15",
+  "assetAddress": "0x24e1aaae80a826b5872ae405099622d792258471",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/18975-albion-st-detroit-mi-48234/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1771426800",
+    "end_timestamp": "1771837200",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

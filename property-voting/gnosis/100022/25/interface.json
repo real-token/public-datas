@@ -1,0 +1,34 @@
+{
+  "id": "25",
+  "assetAddress": "0x400b5716b0c23b6f1f0f2a5fdb038949962b803e",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/3432-harding-street-detroit-mi-48214/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1772204400",
+    "end_timestamp": "1772463600",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}

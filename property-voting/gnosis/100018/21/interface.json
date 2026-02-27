@@ -1,0 +1,34 @@
+{
+  "id": "21",
+  "assetAddress": "0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117",
+  "template": "vote",
+  "version": "1.0.0",
+  "urls": [
+    {
+      "name": "realt.co",
+      "url": "https://realt.co/product/9166-devonshire-rd-detroit-mi-48224/",
+      "type": "website"
+    }
+  ],
+  "settings": {
+    "start_timestamp": "1772204400",
+    "end_timestamp": "1772463600",
+    "descriptions": {
+      "translationKey": "descriptions"
+    },
+    "vote_options": [
+      {
+        "translationKey": "1",
+        "color": "#33FF57"
+      },
+      {
+        "translationKey": "2",
+        "color": "#FF5733"
+      },
+      {
+        "translationKey": "3",
+        "color": "#3357FF"
+      }
+    ]
+  }
+}
